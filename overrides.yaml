@@ -2,12 +2,8 @@
 # This is a YAML-formatted file.
 
 cloudOne:
-  admissionController:
-    enabled: true
-    ## API key to be used with Trend Micro Cloud One Container Security
-    ##
-    ## Default value: (none)
-    apiKey: 1nZLSqMmvmI0czmSyJ2yzqsqznh
+      admissionController:
+          apiKey: 1nZPwpIrCQznskoPKRAl4QigP45
 
     ## endpoint is the url of Trend Micro Cloud One Container Security service
     ## Allows for full endpoint to be provided or the Cloud One region (ex: us-1).
