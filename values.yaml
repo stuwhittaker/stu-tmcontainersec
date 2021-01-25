@@ -7,7 +7,7 @@ cloudOne:
     ## API key to be used with Trend Micro Cloud One Container Security
     ##
     ## Default value: (none)
-    apiKey:
+    apiKey: 1nZPwpIrCQznskoPKRAl4QigP45
 
     ## endpoint is the url of Trend Micro Cloud One Container Security service
     ## Allows for full endpoint to be provided or the Cloud One region (ex: us-1).
