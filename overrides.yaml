@@ -4,9 +4,6 @@
 cloudOne:
   admissionController:
     enabled: true
-    ## API key to be used with Trend Micro Cloud One Container Security
-    ##
-    ## Default value: (none)
     apiKey: 1r4fx6v1UUAC3c2tamxje60WBIx
 
     ## endpoint is the url of Trend Micro Cloud One Container Security service
