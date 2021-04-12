@@ -3,7 +3,7 @@
 
 cloudOne:
       admissionController:
-          apiKey: 1r4Lxk6RttEwy47n8ztxetDMT0b
+          apiKey: 1r4fx6v1UUAC3c2tamxje60WBIx
 
     ## endpoint is the url of Trend Micro Cloud One Container Security service
     ## Allows for full endpoint to be provided or the Cloud One region (ex: us-1).
